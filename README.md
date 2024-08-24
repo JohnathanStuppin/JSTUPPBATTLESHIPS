@@ -1,1 +1,1 @@
-# JSTUPPBATTLESHIPS
+Please run the python file 
